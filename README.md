@@ -8,14 +8,21 @@
 
 
 <div style="display: flex; align-items: center;">
+        
+        
         <div>
+                
             - 📫 How to reach me: **prateekshuklaps0@gmail.com**.
             - 🌱 I’m currently learning Full Stack Web Development.
             - ❓ Ask me about HTML, CSS, JavaScript, React......
             - 👨‍💻 Know more about me at [My Portfolio](https://prateekshuklaps0.github.io)
+                
+                
         </div>
 
         <img src="code.gif" alt="">
+        
+        
     </div>
 
 
