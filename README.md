@@ -1,97 +1,68 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dineshjangid03&label=Profile%20views&color=0e75b6&style=flat" alt="dineshjangid03" /> </p>
+<h1 align="center">Hi 👋, I'm Prateek Shukla</h1>
 
-<!-- ![MasterHead](https://qph.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13) -->
+<h4 align="center">I am a passionate and experienced full-stack web developer with a strong focus on creating efficient, scalable, and user-friendly web applications. With a deep understanding of both front-end and back-end technologies, I enjoy bringing ideas to life and solving complex problems through elegant code.</h4>
 
-<!-- <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"> -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Hey!+It's+Dinesh+Kumar!;Learning+Full+Stack+Web+Development...👨🏻‍💻;" style="width: 100%;">
-<!-- <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"> -->
-<!-- <h1 align="center"> 😇(Hello everyone) 👋</h1> -->
-<h3 align="center">A passionate Full Stack Web Developer</h3>
+<img align="center" width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-<!-- <img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif"> -->
+ <div style=" display: flex;
+    justify-content: space-between;align-items: center;">
+<div>
 
-- 🔭 I’m currently working on [shopy](https://github.com/dineshjangid03/e-commerce_API)
+- 📫 How to reach me: **prateekshuklaps0@gmail.com**.
+- 🌱 I’m currently learning Full Stack Web Development.
 
-- 🌱 I’m currently learning JAVA
+- ❓ Ask me about HTML, CSS, JavaScript, React......
 
-- ❓ Ask me about anything related to JAVA
+- 👨‍💻 Know more about me at [My Portfolio](https://prateekshuklaps0.github.io)
 
-- ⚡ Fun fact: I use tabs over spaces
+</div>
 
-- 📫 How to reach me: ...**dineshjangid538@gmail.com**
+<p>
+ <img src="code2.gif" alt="" width="300px">
+</p>
 
-<br/>
+ </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-<div align="center">  
-                                                         
-<h3 align="left">Connect with me</h3>
+<h3 align="center">-- 📱 Connect with me --</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/dineshjangid03/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dineshjangid03" height="30" width="40" /></a>	
-<a href="https://twitter.com/dineshjangid03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dineshjangid03" height="30" width="40" /></a>
-<!-- <a href="https://fb.com/dineshjangid03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dineshjangid03" height="30" width="40" /></a> -->
-<a href="https://www.leetcode.com/dineshjangid03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dineshjangid03" height="30" width="40" /></a>
-<!-- <a href="https://instagram.com/dineshjangid03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dineshjangid03" height="30" width="40" /></a> -->
+<a href="https://www.linkedin.com/in/prateekshuklaps0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arungoud patil" height="30" width="40" /></a>
 </p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
+<h3 align="center">-- 💻 Languages and Tools --</h3>
+
+<div style="text-align:center;">
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-<h2><i>My GitHub Stats</i></h2>
+<div style=" display: flex;
+    justify-content: space-between;align-items: center;">
 
-<div>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=dineshjangid03&theme=radical" alt="Naveen Saini" height="250px" width="47%" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=dineshjangid03&show_icons=true&theme=radical" height="255px" width="47%"/>
-<div>
-  </br>
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=prateekshuklaps0&theme=radical" alt="Prateek Shukla" height="255px" width="47%" />
   
-<div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dineshjangid03&theme=radical&langs_count=8" alt="Samruddhi" height="260px" width="25%" />
-
-<div>
-
-<!-- <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=dineshjangid03&show_icons=true&locale=en&theme=dark" alt="dineshjangid03"  height="139" />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dineshjangid03&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="dineshjangid03" height="139" />
-
-</p>
-
-<img src="https://activity-graph.herokuapp.com/graph?username=dineshjangid03&theme=xcode" height ="307"/>
- -->
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-
-<h3 align="left">🛠 &nbsp;Tech Stack </h3>
-
-<div align="center">
-	
-<!--   <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" height="50" /> -->
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" />
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /> 
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a> 
-  <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="50"/>
-
-
-<!--    -->
-
-<!--    -->
+  <img  src="https://github-readme-stats.vercel.app/api?username=prateekshuklaps0&show_icons=true&theme=radical" height="180px" width="47%"/>
 
 </div>
 
-<!-- ![Metrics](https://metrics.lecoq.io/dineshjangid03?template=classic&isocalendar=1&languages=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FCalcutta) -->
+<!-- <div style="text-align:center;">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prateekshuklaps0&theme=radical&langs_count=8" alt="Samruddhi" height="400px" width="25%" />
+</div> -->
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+<!-- <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </br>
-	
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=DINESHJANGID03&theme=github-compact" height ="307"/>
-</br>	
-	
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Thanks!+For+Visiting+On+My+Profile!;See+You+Next-Time+Hope+u+like+its...👨🏻‍💻;" style="width: 100%;">
+
+
+</br>
+
+
+ -->
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=prateekshuklaps0&theme=github-compact" height ="307"/>
 
 <p align="center"><img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"></p>
