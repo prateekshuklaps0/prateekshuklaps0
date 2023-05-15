@@ -1,16 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
     <h1 align="center">Hi 👋, I'm Prateek Shukla</h1>
-<h3 align="center">A passionate MERN developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prateekshuklaps0" alt="prateekshuklaps0" /></a> </p>
+<h3 align="center">A passionate MERN developer from India</h3>
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
@@ -72,5 +62,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prateekshuklaps0&" alt="prateekshuklaps0" /></p>
 
-</body>
-</html>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=prateekshuklaps0" alt="prateekshuklaps0" /></a> 
+</p>
