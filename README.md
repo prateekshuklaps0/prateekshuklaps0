@@ -1,3 +1,4 @@
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=greenyellow&amp;size=20&amp;lines=Hey!+It's+Prateek+Shukla!;Learning+Full+Stack+Web+Development...👨🏻‍💻;" style="width: 100%;">
 <h1 align="center">Hi 👋, I'm Prateek Shukla</h1>
 <h3 align="center">A passionate MERN developer from India</h3>
 
