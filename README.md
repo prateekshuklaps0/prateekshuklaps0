@@ -4,16 +4,14 @@
 
 <img align="center" width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-<!-- <img align="right" src="code2.gif" alt="" width="300px"> -->
-![HTML5](code2.gif)
+<img align="right" src="code2.gif" alt="" width="300px">
 
+<p align="left">
 - 📫 How to reach me: **prateekshuklaps0@gmail.com**.
 - 🌱 I’m currently learning Full Stack Web Development.
-
 - ❓ Ask me about HTML, CSS, JavaScript, React......
-
 - 👨‍💻 Know more about me at [My Portfolio](https://prateekshuklaps0.github.io)
-
+</p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
