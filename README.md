@@ -1,5 +1,4 @@
-    <h1 align="center">Hi 👋, I'm Prateek Shukla</h1>
-
+<h1 align="center">Hi 👋, I'm Prateek Shukla</h1>
 <h3 align="center">A passionate MERN developer from India</h3>
 
 - 🌱 I’m currently learning **Full Stack Web Development**
@@ -12,12 +11,15 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1zsJQgu-saUSueowaRvWFG62gb5sdrekc/view?usp=sharing](https://drive.google.com/file/d/1zsJQgu-saUSueowaRvWFG62gb5sdrekc/view?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/prateekshuklaps0/" target="_blank" rel="noreferrer"> 
+ <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="aws" width="40" height="40"/> 
+</a> 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
 </a> 
