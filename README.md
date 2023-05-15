@@ -4,9 +4,7 @@
 
 <img align="center" width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
- <div style=" display: flex;
-    justify-content: space-between;align-items: center;">
-<div>
+<img align="right" src="code2.gif" alt="" width="300px">
 
 - 📫 How to reach me: **prateekshuklaps0@gmail.com**.
 - 🌱 I’m currently learning Full Stack Web Development.
@@ -15,13 +13,19 @@
 
 - 👨‍💻 Know more about me at [My Portfolio](https://prateekshuklaps0.github.io)
 
+ <!-- <div style=" display: flex;
+    justify-content: space-between;align-items: center;">
+<div>
+
+
+
 </div>
 
 <p>
- <img align="right" src="code2.gif" alt="" width="300px">
+ 
 </p>
 
- </div>
+ </div> -->
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
