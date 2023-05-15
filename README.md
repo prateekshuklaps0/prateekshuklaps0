@@ -7,12 +7,16 @@
 
 
 
-- 📫 How to reach me: **prateekshuklaps0@gmail.com**.
-- 🌱 I’m currently learning Full Stack Web Development.
-- ❓ Ask me about HTML, CSS, JavaScript, React......
-- 👨‍💻 Know more about me at [My Portfolio](https://prateekshuklaps0.github.io)
+<div style="display: flex; align-items: center;">
+        <div>
+            - 📫 How to reach me: **prateekshuklaps0@gmail.com**.
+            - 🌱 I’m currently learning Full Stack Web Development.
+            - ❓ Ask me about HTML, CSS, JavaScript, React......
+            - 👨‍💻 Know more about me at [My Portfolio](https://prateekshuklaps0.github.io)
+        </div>
 
- <img align="right" src="code2.gif" alt="" width="300px">
+        <img src="code.gif" alt="">
+    </div>
 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
