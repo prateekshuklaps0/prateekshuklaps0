@@ -20,7 +20,7 @@
   - 📫 How to reach me: **prateekshuklaps0@gmail.com**.
   - 🌱 I’m currently learning Full Stack Web Development.
   - ❓ Ask me about HTML, CSS, JavaScript, React......
-   - 👨‍💻 Know more about me at <a href="https://prateekshuklaps0.github.io">My PortFolio</a>
+   - 👨‍💻 Know more about me at <a href="https://prateekshuklaps0.github.io/">My PortFolio</a>
   - 📄 Know about my [experiences](https://drive.google.com/file/d/1zsJQgu-saUSueowaRvWFG62gb5sdrekc/view?usp=sharing)
  
        
