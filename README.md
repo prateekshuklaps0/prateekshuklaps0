@@ -71,7 +71,7 @@
 
 <br>
 
-<img align="center" width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=prateekshuklaps0&theme=github-compact" height ="307"/>
+<img align="center" text-align="center" margin="auto" width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prateekshuklaps0&theme=radical&langs_count=8" height="250px"/>
 
 <h4 align="center">I'm deeply committed to staying up to date with emerging technologies and best practices within the web development industry. Through constant learning and exploration, I strive to deliver cutting-edge solutions that push the boundaries of what's possible.</h4>
 
