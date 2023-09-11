@@ -2,6 +2,8 @@
 
 <h3 align="center">A Full Stack Web Developer</h3>
 
+<img align="center" width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
 <h4>
 
 🛠️ Technical Expertise: Proficient in the MERN stack, I have expertise in both front-end and back-end development. I've successfully delivered over 12 robust and user-friendly web applications. My strong grasp of responsive web design ensures seamless experiences across all devices.
