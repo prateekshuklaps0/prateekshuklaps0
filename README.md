@@ -1,4 +1,4 @@
-<img align="center" width="100%" src="/image.png">
+<img align="center" width="100%" src="/banner.png">
 
 <h4>
 
