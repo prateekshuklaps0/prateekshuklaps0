@@ -1,18 +1,14 @@
-<h1 align="center">Hi 👋, I'm Prateek Shukla</h1>
-
-<h3 align="center">A Full Stack Web Developer</h3>
-
-<img align="center" width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+<img align="center" width="100%" src="/image.png">
 
 <h4>
 
-🛠️ Technical Expertise: Proficient in the MERN stack, I have expertise in both front-end and back-end development. I've successfully delivered over 12 robust and user-friendly web applications. My strong grasp of responsive web design ensures seamless experiences across all devices.
+🛠️ Technical Expertise : Proficient in the MERN stack, I have expertise in both front-end and back-end development. I've successfully delivered over 12 robust and user-friendly web applications. My strong grasp of responsive web design ensures seamless experiences across all devices.
 
-🎨 UI/UX Design Enthusiast: I'm not just about functionality; I'm also passionate about UI/UX design. By adhering to industry best practices, I craft visually appealing interfaces that prioritize usability.
+🎨 UI/UX Design Enthusiast : I'm not just about functionality; I'm also passionate about UI/UX design. By adhering to industry best practices, I craft visually appealing interfaces that prioritize usability.
 
-📚 Continuous Learner: In the ever-evolving tech landscape, I believe in continual learning. I stay up-to-date with the latest technologies and trends to provide cutting-edge solutions.
+📚 Continuous Learner : In the ever-evolving tech landscape, I believe in continual learning. I stay up-to-date with the latest technologies and trends to provide cutting-edge solutions.
 
-💼 Commitment to Excellence: I'm committed to delivering transformative digital experiences, and I bring this commitment to excellence to all my projects.
+💼 Commitment to Excellence : I'm committed to delivering transformative digital experiences, and I bring this commitment to excellence to all my projects.
 
 Let's connect and explore opportunities to build something great together! Feel free to reach out for collaboration or to discuss exciting projects.
 
