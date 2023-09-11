@@ -23,7 +23,7 @@ Let's connect and explore opportunities to build something great together! Feel 
                 
   - 📫 How to reach me: **prateekshuklaps0@gmail.com**.
   - 🌱 I’m currently learning Full Stack Web Development.
-  - ❓ Ask me about HTML, CSS, JavaScript, React......
+  - ❓ Ask me about React, Node.jsm HTML, CSS ...
    - 👨‍💻 Know more about me at <a  href="https://prateekshuklaps0.github.io/" target="_blank" >My PortFolio</a>
   - 📄 Know about my [experiences](https://drive.google.com/file/d/1zsJQgu-saUSueowaRvWFG62gb5sdrekc/view?usp=sharing)
  
