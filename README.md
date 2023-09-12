@@ -1,43 +1,26 @@
 <img align="center" width="100%" src="/banner.png">
 
-<h4>
-
-🛠️ Technical Expertise : Proficient in the MERN stack, I have expertise in both front-end and back-end development. I've successfully delivered over 12 robust and user-friendly web applications. My strong grasp of responsive web design ensures seamless experiences across all devices.
-
-🎨 UI/UX Design Enthusiast : I'm not just about functionality; I'm also passionate about UI/UX design. By adhering to industry best practices, I craft visually appealing interfaces that prioritize usability.
-
-📚 Continuous Learner : In the ever-evolving tech landscape, I believe in continual learning. I stay up-to-date with the latest technologies and trends to provide cutting-edge solutions.
-
-💼 Commitment to Excellence : I'm committed to delivering transformative digital experiences, and I bring this commitment to excellence to all my projects.
-
-Let's connect and explore opportunities to build something great together! Feel free to reach out for collaboration or to discuss exciting projects.
-
-</h4>
+<h3 align="center" >
+A Full Stack Developer proficient in the MERN stack with a solid foundation in React, Node.js, MongoDB, JavaScript, HTML & CSS. Committed to delivering high-quality web solutions through a rigorous bootcamp-style education. Passionate about creating seamless user experiences and optimizing performance. Eager to contribute to innovative projects and collaborate with forward-thinking teams.
+</h3>
 
 <img align="center" width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-<div style="display: flex; align-items: center; flex-direction: row; justify-content:space-between;">
-
-                
-### 📫 How to reach me: **prateekshuklaps0@gmail.com**.
-### 🌱 I’m currently learning Full Stack Web Development.
-### ❓ Ask me about React, Node.jsm HTML, CSS ...
-### 👨‍💻 Know more about me at <a  href="https://prateekshuklaps0.github.io/" target="_blank" >My PortFolio</a>
-### 📄 Know about my [experiences](https://drive.google.com/file/d/1zsJQgu-saUSueowaRvWFG62gb5sdrekc/view?usp=sharing)
- 
-
-</div>
+#### ❓ Ask me about React, Node.js, MongoDB, HTML & CSS.
+#### 📫 How to reach me at **prateekshuklaps0@gmail.com**.
+#### 👨‍💻 Know more about me at my <a target="blank" href="https://prateekshuklaps0.github.io/" target="_blank" >PortFolio</a>
+#### 📄 Know about my [experiences](https://drive.google.com/file/d/1zsJQgu-saUSueowaRvWFG62gb5sdrekc/view?usp=sharing)
 
 <img align="center" width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-<h3 align="center">-- 📱 Connect with me --</h3>
+<h2 align="center">-- 📱 Connect with me --</h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/prateekshuklaps0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Prateek Shukla LinkedIn" height="30" width="40" /></a>
 </p>
 
 <img align="center" width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-<h3 align="center">-- 💻 Languages and Tools --</h3>
+<h2 align="center">-- 💻 Languages and Tools --</h2>
 
 <div align:"center" style="text-align:center; width:100%;">
 
