@@ -8,11 +8,11 @@ A Full Stack Developer proficient in the MERN stack with a solid foundation in R
 
 #### ❓ Ask me about React, Node.js, MongoDB, HTML & CSS.
 
-#### 📫 How to reach me at **prateekshuklaps0@gmail.com**.
+#### 📫 How to reach me : **prateekshuklaps0@gmail.com**.
 
-#### 👨‍💻 Know more about me at my <a target="blank" href="https://prateekshuklaps0.github.io/" target="_blank" >PortFolio</a>
+#### 👨‍💻 Know more about me through my <a target="blank" href="https://prateekshuklaps0.github.io/" target="_blank" >PortFolio.</a>
 
-#### 📄 Know about my [experiences](https://drive.google.com/file/d/1zsJQgu-saUSueowaRvWFG62gb5sdrekc/view?usp=sharing)
+#### 📄 Know about my experiences [here.](https://drive.google.com/file/d/1zsJQgu-saUSueowaRvWFG62gb5sdrekc/view?usp=sharing)
 
 <img align="center" width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
