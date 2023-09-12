@@ -15,7 +15,7 @@ A Full Stack Developer proficient in the MERN stack with a solid foundation in R
 
 <h2 align="center">-- 📱 Connect with me --</h2>
 <p align="center">
-<a href="https://www.linkedin.com/in/prateekshuklaps0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Prateek Shukla LinkedIn" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/prateekshuklaps0/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Prateek Shukla LinkedIn" height="30" width="40" /></a>
 </p>
 
 <img align="center" width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
