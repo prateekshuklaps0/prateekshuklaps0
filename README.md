@@ -32,17 +32,11 @@ A Full Stack Developer proficient in the MERN stack with a solid foundation in R
 
 <img align="center" width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-<div >
-
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=prateekshuklaps0&theme=radical" alt="Prateek Shukla" height="255px" width="47%" />
+<img  height="180px" text-align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=prateekshuklaps0&theme=radical" alt="Prateek Shukla" />
   
-  <img   align="right" src="https://github-readme-stats.vercel.app/api?username=prateekshuklaps0&show_icons=true&theme=radical" height="255px" width="47%"/>
+<img  height="180px"  text-align="center"  width="100%" src="https://github-readme-stats.vercel.app/api?username=prateekshuklaps0&show_icons=true&theme=radical"  />
 
-</div>
-
-<br>
-
-<img align="center" text-align="center" margin="auto" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prateekshuklaps0&theme=radical&langs_count=8" height="250px"/>
+<img height="180px" text-align="center"  width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prateekshuklaps0&theme=radical&langs_count=8" />
 
 <img align="center" width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
