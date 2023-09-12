@@ -17,15 +17,15 @@ Let's connect and explore opportunities to build something great together! Feel 
 <img align="center" width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 <div style="display: flex; align-items: center; flex-direction: row; justify-content:space-between;">
-<div>
+
                 
-  - 📫 How to reach me: **prateekshuklaps0@gmail.com**.
-  - 🌱 I’m currently learning Full Stack Web Development.
-  - ❓ Ask me about React, Node.jsm HTML, CSS ...
-   - 👨‍💻 Know more about me at <a  href="https://prateekshuklaps0.github.io/" target="_blank" >My PortFolio</a>
-  - 📄 Know about my [experiences](https://drive.google.com/file/d/1zsJQgu-saUSueowaRvWFG62gb5sdrekc/view?usp=sharing)
+### 📫 How to reach me: **prateekshuklaps0@gmail.com**.
+### 🌱 I’m currently learning Full Stack Web Development.
+### ❓ Ask me about React, Node.jsm HTML, CSS ...
+### 👨‍💻 Know more about me at <a  href="https://prateekshuklaps0.github.io/" target="_blank" >My PortFolio</a>
+### 📄 Know about my [experiences](https://drive.google.com/file/d/1zsJQgu-saUSueowaRvWFG62gb5sdrekc/view?usp=sharing)
  
-</div>
+
 </div>
 
 <img align="center" width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
