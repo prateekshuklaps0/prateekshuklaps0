@@ -6,7 +6,7 @@ A Full Stack Developer proficient in the MERN stack with a solid foundation in R
 
 <img align="center" width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-#### ❓ Ask me about React, Node.js, MongoDB, HTML & CSS.
+#### ❓ Ask me about React, Node.js, MongoDB, HTML, CSS etc.
 
 #### 📫 How to reach me : **prateekshuklaps0@gmail.com**.
 
