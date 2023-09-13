@@ -31,7 +31,7 @@ A FULL STACK WEB DEVELOPER proficient in the MERN stack with a solid foundation 
 
 <img  height="180px" text-align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=prateekshuklaps0&theme=radical" alt="Prateek Shukla" />
 <img  height="180px"  text-align="center"  width="100%" src="https://github-readme-stats.vercel.app/api?username=prateekshuklaps0&show_icons=true&theme=radical"  />
-<img height="210px" text-align="center"  width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prateekshuklaps0&theme=radical&langs_count=8" />
+<img height="180px" text-align="center"  width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prateekshuklaps0&theme=radical&layout=compact&langs_count=8" />
 
 <img align="center" width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
