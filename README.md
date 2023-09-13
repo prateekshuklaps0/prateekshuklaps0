@@ -6,11 +6,10 @@ A FULL STACK WEB DEVELOPER proficient in the MERN stack with a solid foundation 
 
 <img align="center" width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-<h4 align="left"><img align="center" width="25px" height="25px" src="/code.webp" /> Ask me about React, Node.js, MongoDB, HTML, CSS etc.</h4>
+<h4 align="left"><img align="center" width="25px" height="25px" src="/as.webp" /> Ask me about React, Node.js, MongoDB, HTML, CSS etc.</h4>
 <h4 align="left"><img align="center" width="25px" height="25px" src="/code.webp" /> How to reach me : **prateekshuklaps0@gmail.com**.</h4>
 <h4 align="left"><img align="center" width="25px" height="25px" src="/code.webp" /> Know more about me through my <a target="blank" href="https://prateekshuklaps0.github.io/" target="_blank" >PortFolio.</a></h4>
 <h4 align="left"><img align="center" width="25px" height="25px" src="/code.webp" /> Know about my experiences <a target="blank" href="https://drive.google.com/file/d/1zsJQgu-saUSueowaRvWFG62gb5sdrekc/view?usp=sharing" target="_blank" >here.</a></h4>
-
 
 <img align="center" width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
