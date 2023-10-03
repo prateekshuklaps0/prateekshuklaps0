@@ -1,7 +1,8 @@
 <img align="center" width="100%" src="/banner.png">
 
-<h2 align="center">An Aspiring Full Stack Web Developer proficient in MERN Stack.</h2>
-<img text-align="center" margin="auto" align="center" src="https://readme-typing-svg.herokuapp.com/?lines=An+Aspiring+Full+Stack+Web+Developer;Proficient+In+MERN+Stack&center=true" />
+<h3 align="center">
+<img src="https://readme-typing-svg.demolab.com?font=K2D&weight=500&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=An+Aspiring+Full+Stack+Web+Developer;Proficient+In+MERN+Stack" alt="An Aspiring Full Stack Web Developer, proficient In MERN Stack" />
+</h3>
 
 <h3 align="justify" >
 Having solid foundation in React, Node.js, MongoDB, JavaScript, HTML & CSS etc. Committed to delivering high-quality web solutions through a rigorous bootcamp-style education. Eager to contribute to innovative projects and collaborate with forward-thinking teams.
