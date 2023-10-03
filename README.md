@@ -3,7 +3,7 @@
 <h2 align="center">An Aspiring Full Stack Web Developer proficient in MERN Stack.</h2>
 
 <h3 align="justify" >
-Having a solid foundation in React, Node.js, MongoDB, JavaScript, HTML & CSS etc. Committed to delivering high-quality web solutions through a rigorous bootcamp-style education. Eager to contribute to innovative projects and collaborate with forward-thinking teams.
+Having solid foundation in React, Node.js, MongoDB, JavaScript, HTML & CSS etc. Committed to delivering high-quality web solutions through a rigorous bootcamp-style education. Eager to contribute to innovative projects and collaborate with forward-thinking teams.
 </h3>
 
 <img align="center" width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
