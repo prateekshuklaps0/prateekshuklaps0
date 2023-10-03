@@ -43,4 +43,6 @@ Having solid foundation in React, Node.js, MongoDB, JavaScript, HTML & CSS etc. 
 
 <h4 align="center">Feel free to explore my repositories to get a glimpse of my diverse projects and the innovative solutions I've developed. If you have any questions, ideas, or collaboration opportunities, please don't hesitate to reach out. Let's connect and create amazing web experiences together!</h4>
 
+<h4 align="center">Feel free to explore my repositories to get a glimpse of my diverse projects and the innovative solutions I've developed. If you have any questions, ideas, or collaboration opportunities, please don't hesitate to reach out. Let's connect and create amazing web experiences together!</h4>
+
 <p align="center"><img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"></p>
